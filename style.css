@@ -1,0 +1,28 @@
+.padre{
+  background-color: #5080d2;
+  padding: 80px 0px;
+}
+.hijo1{
+  background-color: #40e495;
+}
+.menu{
+  background-color: rgba(133, 90, 34, 0.94);
+}
+
+
+.footer{
+  background-color: #222;
+  padding: 80px 0px;
+}
+
+footer h3{
+  color: white;
+}
+footer h5{
+  display: block;
+  color: white;
+  padding-top: 20px;
+}
+footer span{
+  color: white;
+}
